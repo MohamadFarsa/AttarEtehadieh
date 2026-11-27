@@ -22,90 +22,90 @@
   "maintenanceText": "این صفحه به‌زودی فعال می‌شود"
  },
  "images": {
-  "logo": "assets/logo-1795772041341.png",
+  "logo": "assets/logo.png",
   "title": "assets/title.png",
-  "frame": "assets/frame.jpg",
-  "divider": "assets/divider-1795771727676.jpg",
+  "frame": "assets/frame-1795773213274.jpg",
+  "divider": "assets/divider-1795773223299.jpg",
   "ornament": "assets/orn.png"
  },
  "buttons": [
   {
    "label": "سایت",
-   "url": "",
+   "url": "https://etehadieattar.com/",
    "group": "top",
    "visible": true
   },
   {
    "label": "اینستاگرام",
-   "url": "",
+   "url": "https://www.instagram.com/etehadeiehatar?hvrq=MWlhb3RndnA5em15ZQ==",
    "group": "top",
    "visible": true
   },
   {
    "label": "عطار",
-   "url": "",
+   "url": "https://ble.ir/Attaran_Etehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "زعفران و بذر",
-   "url": "",
+   "url": "https://ble.ir/zaferanEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "شوینده",
-   "url": "",
+   "url": "https://ble.ir/shoyandehEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "ادویه و عرقیات",
-   "url": "",
+   "url": "https://ble.ir/AdviehEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "صابون و بوگیر",
-   "url": "",
+   "url": "https://ble.ir/sabonEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "حبوبات و سقط فروش",
-   "url": "",
+   "url": "https://ble.ir/HobobatEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "توتون و دخانیات",
-   "url": "",
+   "url": "https://ble.ir/DokhaniaEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "گیاهان دارویی",
-   "url": "",
+   "url": "https://ble.ir/GyahanEtehadieh",
    "group": "main",
    "visible": true
   },
   {
    "label": "قهوه",
-   "url": "",
+   "url": "https://ble.ir/gahvehEtehadueh",
    "group": "main",
    "visible": true
   },
   {
    "label": "چای",
-   "url": "",
+   "url": "https://ble.ir/chayEtehadieh",
    "group": "main",
    "visible": true
   }
  ],
+ "palette": [],
  "fonts": {
   "custom": [],
   "buttons": "",
   "body": ""
- },
- "palette": []
+ }
 }
