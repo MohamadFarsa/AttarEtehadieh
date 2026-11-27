@@ -4,15 +4,15 @@
   "theme": "auto",
   "themeToggle": true,
   "light": {
-   "bg": "#fffafa",
+   "bg": "#ffffff",
    "bg2": "",
-   "btn": "#6b2434",
+   "btn": "#2e4a62",
    "btnText": "#ffffff"
   },
   "dark": {
-   "bg": "#1a0f12",
+   "bg": "#0f1a24",
    "bg2": "",
-   "btn": "#8e3248",
+   "btn": "#3a5d7c",
    "btnText": "#ffffff"
   },
   "showFrame": true,
@@ -25,7 +25,7 @@
   "logo": "assets/logo.png",
   "title": "assets/title.png",
   "frame": "assets/frame.jpg",
-  "divider": "assets/divider.jpg",
+  "divider": "assets/divider-1795771727676.jpg",
   "ornament": "assets/orn.png"
  },
  "buttons": [
