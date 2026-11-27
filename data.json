@@ -1,18 +1,18 @@
 {
  "settings": {
   "pageTitle": "اتحادیه صنف عطار تهران",
-  "theme": "light",
+  "theme": "auto",
   "themeToggle": true,
   "light": {
-   "bg": "#ffffff",
+   "bg": "#fffafa",
    "bg2": "",
-   "btn": "#2e4a62",
+   "btn": "#6b2434",
    "btnText": "#ffffff"
   },
   "dark": {
-   "bg": "#0f1a24",
+   "bg": "#1a0f12",
    "bg2": "",
-   "btn": "#3a5d7c",
+   "btn": "#8e3248",
    "btnText": "#ffffff"
   },
   "showFrame": true,
@@ -22,90 +22,90 @@
   "maintenanceText": "این صفحه به‌زودی فعال می‌شود"
  },
  "images": {
-  "logo": "assets/logo-1795731909821.png",
-  "title": "assets/title-1795731969950.png",
-  "frame": "assets/frame-1795731942174.jpg",
-  "divider": "assets/divider-1795732002922.jpg",
+  "logo": "assets/logo.png",
+  "title": "assets/title.png",
+  "frame": "assets/frame.jpg",
+  "divider": "assets/divider.jpg",
   "ornament": "assets/orn.png"
  },
  "buttons": [
   {
    "label": "سایت",
-   "url": "https://etehadieattar.com/",
+   "url": "",
    "group": "top",
    "visible": true
   },
   {
    "label": "اینستاگرام",
-   "url": "https://www.instagram.com/etehadeiehatar?hvrq=MWlhb3RndnA5em15ZQ==",
+   "url": "",
    "group": "top",
    "visible": true
   },
   {
    "label": "عطار",
-   "url": "https://ble.ir/Attaran_Etehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "زعفران و بذر",
-   "url": "https://ble.ir/zaferanEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "شوینده",
-   "url": "https://ble.ir/shoyandehEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "ادویه و عرقیات",
-   "url": "https://ble.ir/AdviehEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "صابون و بوگیر",
-   "url": "https://ble.ir/sabonEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "حبوبات و سقط فروش",
-   "url": "https://ble.ir/HobobatEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "توتون و دخانیات",
-   "url": "https://ble.ir/DokhaniaEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "گیاهان دارویی",
-   "url": "https://ble.ir/GyahanEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "قهوه",
-   "url": "https://ble.ir/gahvehEtehadueh",
+   "url": "",
    "group": "main",
    "visible": true
   },
   {
    "label": "چای",
-   "url": "https://ble.ir/chayEtehadieh",
+   "url": "",
    "group": "main",
    "visible": true
   }
  ],
- "palette": [],
  "fonts": {
   "custom": [],
   "buttons": "",
   "body": ""
- }
+ },
+ "palette": []
 }
