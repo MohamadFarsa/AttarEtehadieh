@@ -4,15 +4,15 @@
   "theme": "light",
   "themeToggle": true,
   "light": {
-   "bg": "#f6fcfc",
+   "bg": "#ffffff",
    "bg2": "",
-   "btn": "#176b78",
+   "btn": "#2e4a62",
    "btnText": "#ffffff"
   },
   "dark": {
-   "bg": "#0b1a1d",
+   "bg": "#0f1a24",
    "bg2": "",
-   "btn": "#1f8a9a",
+   "btn": "#3a5d7c",
    "btnText": "#ffffff"
   },
   "showFrame": true,
